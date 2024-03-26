@@ -1,3 +1,5 @@
+Itz clone project of my fav youtuber for learning purpose how to intigtated ai to plateform unfortuntly i dont have prime subs to open ai i am not able to fully run but i got the idea how much we can ipliment the stufs with ai which is just next level. itz gonn be funn for next few years. new Era about to come Have a joys
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
